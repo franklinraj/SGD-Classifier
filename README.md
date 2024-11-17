@@ -71,9 +71,9 @@ print(cm)
 
 ![368835394-7fea0925-030c-4aa2-b1c8-e51c639c0f83](https://github.com/user-attachments/assets/e0b48a48-e3a8-43d5-a14d-f242ce7cf316)
 
+![368827478-25a669dc-3146-482e-8aab-9306639f3292](https://github.com/user-attachments/assets/6101e353-e42d-4c06-90ba-4e558e95266d)
 
 
-![368835423-7c0f9a5d-ec52-4ff9-84a5-e1095c3cc0c5](https://github.com/user-attachments/assets/bbaec29b-0c72-4b6f-8eab-553c599c7753)
 
 
 ## Result:
